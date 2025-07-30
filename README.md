@@ -8,7 +8,7 @@ Pokémon kartlarından oluşan, koleksiyonu görüntüleyen duyarlı bir web uyg
 + Daha fazla görsel çekicilik için Font Awesome simgeleri
 + JavaScript
 
-#🌟 Özellikler
+# 🌟 Özellikler
 + 🔍 Pokémon adına göre arama
 
 + 📱 Tüm ekran boyutları için tamamen duyarlı tasarım
